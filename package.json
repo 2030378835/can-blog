@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "sass": "^1.83.0",
+    "vitepress": "^1.5.0",
+    "vitepress-sidebar": "^1.30.2"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "ant-design-vue": "4.x",
+    "tippy.js": "^6.3.7",
+    "vue3-calendar-heatmap": "^2.0.5",
+    "vuejs-heatmap": "^1.1.7"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "hash": "66a06279",
+  "configHash": "cc3e5bcd",
+  "lockfileHash": "f1895028",
+  "browserHash": "fb0fbe15",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.13/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "2a483c69",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.6.8/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "31f360c8",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@11.3.0_vue@3.5.13/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "37aa74c3",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+integrations@11.3.0_async-validator@4.2.5_focus-trap@7.6.2_vue@3.5.13/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "69c531db",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "b7266ee4",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../../node_modules/.pnpm/minisearch@7.1.1/node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "83da3be1",
+      "needsInterop": false
+    },
+    "ant-design-vue": {
+      "src": "../../../../node_modules/.pnpm/ant-design-vue@4.2.6_vue@3.5.13/node_modules/ant-design-vue/es/index.js",
+      "file": "ant-design-vue.js",
+      "fileHash": "4f45fad8",
+      "needsInterop": false
+    },
+    "vue3-calendar-heatmap": {
+      "src": "../../../../node_modules/.pnpm/vue3-calendar-heatmap@2.0.5_tippy.js@6.3.7_vue@3.5.13/node_modules/vue3-calendar-heatmap/dist/vue3-calendar-heatmap.es.js",
+      "file": "vue3-calendar-heatmap.js",
+      "fileHash": "9df888f8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GVK435NP": {
+      "file": "chunk-GVK435NP.js"
+    },
+    "chunk-JN5NFW2R": {
+      "file": "chunk-JN5NFW2R.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}

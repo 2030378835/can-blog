@@ -1,0 +1,7 @@
+/* index.css */
+@import "./var.css";
+@import "./blur.css";
+/* @import "./archive.css" */
+.ant-modal-content {
+  background-color: var(--vp-c-bg-soft) !important;
+}
